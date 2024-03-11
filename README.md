@@ -16,7 +16,7 @@ The Tkinter version (`gui.py`) provides a basic, easy-to-use interface for playi
 
 The Pygame version (`pygameGUI.py`) offers a more immersive experience with enhanced graphics and animations. It includes custom game piece visuals, board design, and interactive elements like buttons and hover effects. This version also supports playing against the AI, with moves visually represented on the board for both the player and the AI.
 
-## Gomoku AI
+## Gomoku AI Explanation
 
 ### Pattern Recognition
 - The AI leverages the `Pattern` class to define and utilize patterns, which are essentially configurations of stones on the board with assigned values indicating their strategic significance.

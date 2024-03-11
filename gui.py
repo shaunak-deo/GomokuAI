@@ -2,7 +2,7 @@ import tkinter as tk
 import numpy as np
 import gomoku as gm
 from gomoku import GomokuState
-from policies.submission import Submission
+from policies.GomukuAI import Submission
 from policies.random import Random
 
 class GomokuGUI:

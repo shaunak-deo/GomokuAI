@@ -146,7 +146,7 @@ def handle_mouse_click(position):
                     execute_move(*ai_move, gm.MIN)
                     pygame.display.flip()
             if game_state.is_game_over():
-                game_winner = 'Player' if game_state.current_score() > 0 else 'AI'
+                game_winner = 'Human' if game_state.current_score() > 0 else 'AI'
                 flicker_last_move(*last_move)  # Highlight the last move
                 is_game_active = False
                 display_winner_message(game_winner)

@@ -1,4 +1,4 @@
-# GomokuAI
+# GomokuAI 🤖
 
 Welcome to the Gomoku AI project! This project features an interactive game of Gomoku, also known as Five in a Row, where players aim to place five of their marks in a horizontal, vertical, or diagonal row on a 15x15 board. The project showcases two graphical user interfaces (GUIs) for playing the game: a basic GUI built with Tkinter and a more interactive and visually appealing version using Pygame. Additionally, the project includes an AI opponent implemented in `GomukuAI.py`, making the game not only a test of strategy against human opponents but also a challenge against a computer.
 
@@ -6,7 +6,7 @@ Welcome to the Gomoku AI project! This project features an interactive game of G
 
 - **Two GUIs**: Choose between a simple, straightforward interface with Tkinter (`gui.py`) and a more dynamic, visually enhanced experience with Pygame (`pygameGUI.py`).
 - **Intelligent AI**: The game's AI, detailed in `GomukuAI.py`, uses pattern recognition and strategic evaluation to make moves, providing a challenging opponent that adapts to the flow of the game.
-- **Online Playability**: The project is hosted on Replit, allowing you to play the game online without the need for local installation. [Play on Replit](#replit-link-placeholder)
+- **Online Playability**: The project is hosted on Replit, allowing you to play the game online without the need for local installation. [Play on Replit](https://replit.com/@shaunakdeo/GomukuAI#main.py)
 
 ### Tkinter GUI
 

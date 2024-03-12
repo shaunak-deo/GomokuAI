@@ -8,13 +8,20 @@ Welcome to the Gomoku AI project! This project features an interactive game of G
 - **Intelligent AI**: The game's AI, detailed in `GomukuAI.py`, uses pattern recognition and strategic evaluation to make moves, providing a challenging opponent that adapts to the flow of the game.
 - **Online Playability**: The project is hosted on Replit, allowing you to play the game online without the need for local installation. [Play on Replit](https://replit.com/@shaunakdeo/GomukuAI#main.py)
 
-### Tkinter GUI
-
-The Tkinter version (`gui.py`) provides a basic, easy-to-use interface for playing Gomoku. It features a 15x15 board and allows players to select their moves with a simple click. This GUI supports playing against the AI or another human player in a turn-by-turn fashion. Additionally, it includes options to start a new game or adjust AI settings through a simple menu.
 
 ### Pygame GUI
 
 The Pygame version (`pygameGUI.py`) offers a more immersive experience with enhanced graphics and animations. It includes custom game piece visuals, board design, and interactive elements like buttons and hover effects. This version also supports playing against the AI, with moves visually represented on the board for both the player and the AI.
+
+![Pygame GUI](Pygame.gif)
+
+
+### Tkinter GUI
+
+The Tkinter version (`gui.py`) provides a basic, easy-to-use interface for playing Gomoku. It features a 15x15 board and allows players to select their moves with a simple click. This GUI supports playing against the AI or another human player in a turn-by-turn fashion. Additionally, it includes options to start a new game or adjust AI settings through a simple menu.
+
+![Tkinter GUI](tkinter.gif)
+
 
 ## Gomoku AI Explanation
 
